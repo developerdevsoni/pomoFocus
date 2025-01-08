@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517704547320",
+    "project_id": "pomofocus-4f631",
+    "storage_bucket": "pomofocus-4f631.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517704547320:android:62ddd2aee63a744837340d",
+        "android_client_info": {
+          "package_name": "com.pomofocus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMibIK2z5WKD746Ug7uu0CzsIuYRtzYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
